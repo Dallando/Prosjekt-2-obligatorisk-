@@ -1,2 +1,23 @@
-# Prosjekt-2-obligatorisk-
-Dette prosjektet er todelt. I første del skal vi modellere spredningen av en smittsom sykdom, både ved hjelp av et koblet sett av ordinære differensiallikninger og gjennom en Monte Carlo-simulering. I andre del skal vi bruke det vi har lært om løsning av partielle differensiallikninger til å løse gruntvannslikningene i to (pluss én) dimensjoner.
+# Prosjekt 2 – Oblig oppgave (SIRS og gruntvann)
+
+Dette prosjektet er delt i to:
+1. Modellering av spredning av en smittsom sykdom (SIRS-modell).
+2. Simulering av gruntvannsligningene i 2D.
+
+## 📁 Innhold i repository
+- `kode/`: inneholder Python-filer for simuleringer og analyser.
+- `rapport/`: inneholder LaTeX-rapport, figurer og kilder.
+- `data/`: eventuelle datasett eller lagrede resultater.
+
+## 📦 Biblioteker og versjoner
+| Bibliotek  | Versjon |
+|-------------|----------|
+| Python      | 3.12     |
+| NumPy       | 1.26     |
+| Matplotlib  | 3.9      |
+| SciPy       | 1.13     |
+| Numba       | 0.59     |
+
+Installer alt med:
+```bash
+pip install numpy matplotlib scipy numba
