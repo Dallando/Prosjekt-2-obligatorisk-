@@ -21,3 +21,25 @@ Dette prosjektet er delt i to:
 Installer alt med:
 ```bash
 pip install numpy matplotlib scipy numba
+
+
+
+ Hvordan kjøre koden
+
+Eksempler:
+
+python kode/sirs_model.py
+python kode/sirs_mc.py
+python kode/sirs_vital.py
+python kode/shallow_water.py
+
+
+Figurer lagres i rapport/figs/.
+
+Bidragsytere
+
+Kevin (studentnummer: XXXXX)
+
+Lenke til repository
+
+https://github.com/Dallando/Prosjekt-2-obligatorisk-
